@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Poppins&display=swap');
+
+h1,h5,button{
+    font-family: 'EB Garamond','Poppins';
+}
+
+.banner-img-1{
+    background-image: url(../images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 75vh;
+}
+.slider-img-2{
+    background: linear-gradient(to right,rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../images/slider-1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    
+}
+.slider-img-3{
+    background: linear-gradient(to right,rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../images/slider-2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+}
+.slider-img-4{
+    background: linear-gradient(to right,rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../images/slider-3.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+}
+#image{
+    width: 100px;
+    height: 100px;
+}
